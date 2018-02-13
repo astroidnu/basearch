@@ -1,1 +1,1 @@
-include ':app', ':mvpbasearch'
+include ':sample', ':mvpbasearch'
